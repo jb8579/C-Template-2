@@ -132,6 +132,8 @@
         padding: 0px;
         position: relative;
         top: 0px;
+        max-width: 130px;
+        display: block;
     }
 
     h2.list-h2 {
